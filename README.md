@@ -1,5 +1,7 @@
 # Reddio
 
+Первый софт - Withrdraw redETH 
+Второй софт - Deploy контрактов
 pip install web3 py-solc-x requests colorama
 
 Файлы:
